@@ -4,22 +4,22 @@
 
 ## Table of Contents 
 
-1. [Installation] (#installation)
-2. [Usage] (#usage)
-3. [License] (#license)
-4. [Contributing] (#contributing)
-5. [Tests] (#tests)
-6. [Questions] (#questions)
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [License] (#license)
+* [Contributing] (#contributing)
+* [Tests] (#tests)
+* [Questions] (#questions)
 
 
-## Installation Instructions 
+## Installation Instructions <a name="installation">
 
-## Usage
+## Usage <a name="usage">
 
-## License
+## License <a name="license">
 
-## Contributing
+## Contributing <a name="contributing">
 
-## Tests
+## Tests <a name="tests">
 
-## Questions
+## Questions <a name="questions">
