@@ -4,12 +4,12 @@
 
 ## Table of Contents 
 
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Contributing] (#contributing)
-* [Tests] (#tests)
-* [Questions] (#questions)
+* [Installation] (https://github.com/kirmarnel/reademe-generator#installation-instructions-)
+* [Usage] (https://github.com/kirmarnel/reademe-generator#usage-)
+* [License] (https://github.com/kirmarnel/reademe-generator#license-)
+* [Contributing] (https://github.com/kirmarnel/reademe-generator#contributing-)
+* [Tests] (https://github.com/kirmarnel/reademe-generator#tests-)
+* [Questions] (https://github.com/kirmarnel/reademe-generator#questions-)
 
 
 ## Installation Instructions <a name="installation">
