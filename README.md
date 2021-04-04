@@ -12,14 +12,14 @@
 * [Questions] (#questions)
 
 
-## Installation Instructions <a name="installation">
+## Installation Instructions <a id="installation"></a>
 
-## Usage <a name="usage">
+## Usage <a id="usage"></a>
 
-## License <a name="license">
+## License <a id="license"></a>
 
-## Contributing <a name="contributing">
+## Contributing <a id="contributing"></a>
 
-## Tests <a name="tests">
+## Tests <a id="tests"></a>
 
-## Questions <a name="questions">
+## Questions <a id="questions"></a>
