@@ -10,6 +10,11 @@ inquirer
     },
     {
         type: 'input',
+        name: 'description',
+        message: 'How would you describe your project?',
+      },
+    {
+        type: 'input',
         name: 'installation',
         message: 'What is needed to install your application?',
       },
@@ -41,11 +46,15 @@ inquirer
       },
 ])
 
+
+
 .then((data) => {
    
 
 fs.writeFile('README.md', 
     `# ${data.title}
+    [![License](https://img.shields.io/badge/License-MIT-blue)
+
 
     ## Description 
     ${data.description}
@@ -64,9 +73,9 @@ fs.writeFile('README.md',
     ## Usage <a id="usage"></a>
     ${data.usage}
     ## License <a id="license"></a>
-    ${data.license}
+    This project is licensed with ${data.license} license
     ## Contributing <a id="contributing"></a>
-    ${data.contributing}
+    ${data.contributors}
     ## Tests <a id="tests"></a>
     ${data.tests}
     ## Questions <a id="questions"></a>
@@ -77,3 +86,4 @@ fs.writeFile('README.md',
         }
     });
 });
+
