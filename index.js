@@ -53,8 +53,6 @@ inquirer
 
 fs.writeFile('README.md', 
     `# ${data.title}
-    ![License](https://img.shields.io/badge/License-${data.license}-blue.svg)
-
 
     ## Description 
     ${data.description}
