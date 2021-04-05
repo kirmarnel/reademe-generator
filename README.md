@@ -1,7 +1,7 @@
-# ReadMe Generator
+# test
+    ![License](https://img.shields.io/badge/License-IBM-blue.svg)
 
- ![License](https://img.shields.io/badge/License-MIT-blue.svg)
- 
+
     ## Description 
     test
     ## Table of Contents 
@@ -19,7 +19,7 @@
     ## Usage <a id="usage"></a>
     test
     ## License <a id="license"></a>
-    MIT
+    This project is licensed with IBM license
     ## Contributing <a id="contributing"></a>
     test
     ## Tests <a id="tests"></a>
