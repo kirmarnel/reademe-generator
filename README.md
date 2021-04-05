@@ -1,9 +1,7 @@
-# test
-    ![License](https://img.shields.io/badge/License-IBM-blue.svg)
-
+# ReadMe Generator
 
     ## Description 
-    test
+    This project is a node application that allows the user to answer promps that at the end will be written into a professional looking readme.md file.
     ## Table of Contents 
     
     * [Installation](#installation)
@@ -15,15 +13,15 @@
     
     
     ## Installation Instructions <a id="installation"></a>
-    test
+    To install dependencies, type the following command: npm install
     ## Usage <a id="usage"></a>
-    test
+    This application is used to generate a readme file for any project
     ## License <a id="license"></a>
-    This project is licensed with IBM license
+    This project is licensed with MIT license
     ## Contributing <a id="contributing"></a>
-    test
+    Kirsten Nelson
     ## Tests <a id="tests"></a>
-    test
+    No tests needed
     ## Questions <a id="questions"></a>
-    test
+    No tests needed
     
