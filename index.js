@@ -52,33 +52,33 @@ inquirer
    
 
 fs.writeFile('README.md', 
-    `# ${data.title}
-
-    ## Description 
-    ${data.description}
-    ## Table of Contents 
+`# ${data.title}
+![License](https://img.shields.io/badge/License-${data.license}-blue.svg)
+## Description 
+${data.description}
+## Table of Contents 
     
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
     
     
-    ## Installation Instructions <a id="installation"></a>
-    ${data.installation}
-    ## Usage <a id="usage"></a>
-    ${data.usage}
-    ## License <a id="license"></a>
-    This project is licensed with ${data.license} license
-    ## Contributing <a id="contributing"></a>
-    ${data.contributors}
-    ## Tests <a id="tests"></a>
-    ${data.tests}
-    ## Questions <a id="questions"></a>
-    ${data.tests}
-    `,(error) => {
+## Installation Instructions <a id="installation"></a>
+${data.installation}
+## Usage <a id="usage"></a>
+${data.usage}
+## License <a id="license"></a>
+This project is licensed with ${data.license} license
+## Contributing <a id="contributing"></a>
+${data.contributors}
+## Tests <a id="tests"></a>
+${data.tests}
+## Questions <a id="questions"></a>
+ ${data.tests}`
+ ,(error) => {
         if (error) {
             console.log(error)
         }
