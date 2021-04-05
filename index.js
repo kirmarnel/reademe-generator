@@ -71,8 +71,8 @@ ${data.installation}
 ## Usage <a id="usage"></a>
 ${data.usage}
 ## License <a id="license"></a>
-This project is licensed with ${data.license} license
-## Contributing <a id="contributing"></a>
+This project is licensed with ${data.license}
+## Contributors <a id="contributing"></a>
 ${data.contributors}
 ## Tests <a id="tests"></a>
 ${data.tests}
